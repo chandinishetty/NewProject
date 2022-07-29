@@ -12,5 +12,8 @@ public class Car extends Vechile {
 	  public void refil() {
 		  System.out.println("car...refil");
 	  }
+	  Car(){
+		  
+	  }
 	  
 }

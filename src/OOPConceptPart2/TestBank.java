@@ -19,7 +19,7 @@ public class TestBank {
 		b.credit();
 		b.debit();
 		b.transfermoney();
-		
+	
 	
 	}
 
